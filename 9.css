@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
+
+header {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 20px;
+}
+
+main {
+  width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 20px;
+}
+
+#inicio {
+  background-color: #ffffff;
+}
+
+#crear, #editar, #eliminar {
+  background-color: #ffffff;
+}
