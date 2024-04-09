@@ -1,1 +1,1 @@
-Set de configuraciones web de javascript
+Set Paginas web sin solicitudes php
